@@ -1,5 +1,7 @@
 # generator-gulp-emails [![Build Status](https://secure.travis-ci.org/robeasthope/generator-gulp-emails.png?branch=master)](https://travis-ci.org/robeasthope/generator-gulp-emails)
 
+WIP Yeoman generator for HTML emails built using Gulp v4 (Alpha)
+
 > [Yeoman](http://yeoman.io) generator
 
 
